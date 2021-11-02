@@ -4,6 +4,13 @@
     box-sizing: border-box;
 }
 
+h1 {
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
 body {
     background: #0099F7;
     background: -webkit-linear-gradient(to right, #F11712, #0099F7);
